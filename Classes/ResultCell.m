@@ -1,4 +1,4 @@
-#import "ResultCell.h"
+#import "ResultCell.h"//to helpgive the input and oupt information
 
 @implementation ResultCell
 
